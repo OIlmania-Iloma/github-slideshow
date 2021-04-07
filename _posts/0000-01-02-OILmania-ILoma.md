@@ -1,6 +1,6 @@
 - - -
 Changes is at the title
-Layout: slide
+Layout: slide:
 Title: “welcome to our second slide!”
 - - -
 
